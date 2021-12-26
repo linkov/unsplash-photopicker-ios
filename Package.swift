@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "UnsplashPhotoPicker",
+    name: "ACUnsplashPhotoPicker",
     defaultLocalization: "en",
     platforms: [.iOS(.v11)],
     products: [
